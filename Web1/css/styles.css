@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: rgb(0, 77, 9);
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.main {
+    text-align: center;
+}
+nav {
+    text-align: center;
+    color: darkblue;
+}
+.images {
+    text-align: center;
+}
+img {
+    padding: 40px;
+}
+.about {
+    text-align: center;
+}
