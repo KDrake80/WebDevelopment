@@ -24,7 +24,6 @@ nav {
   width: 15px;
   text-align: center;
   font-size: 15px;
-  background: #ccc;
   padding: 20px;
 }
 article {
@@ -35,4 +34,8 @@ footer {
   display: flex;
   justify-content: center;
   margin-top: 150px;
+  background: #ccc;
+}
+.image {
+  margin: .5%;
 }
